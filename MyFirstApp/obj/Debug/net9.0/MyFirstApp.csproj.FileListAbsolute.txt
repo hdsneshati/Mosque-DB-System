@@ -1,0 +1,15 @@
+F:\دانشگاه\ترم بندی\ترم5\پایگاه داده\پروژه\Mosque-DB-System\MyFirstApp\bin\Debug\net9.0\MyFirstApp.exe
+F:\دانشگاه\ترم بندی\ترم5\پایگاه داده\پروژه\Mosque-DB-System\MyFirstApp\bin\Debug\net9.0\MyFirstApp.deps.json
+F:\دانشگاه\ترم بندی\ترم5\پایگاه داده\پروژه\Mosque-DB-System\MyFirstApp\bin\Debug\net9.0\MyFirstApp.runtimeconfig.json
+F:\دانشگاه\ترم بندی\ترم5\پایگاه داده\پروژه\Mosque-DB-System\MyFirstApp\bin\Debug\net9.0\MyFirstApp.dll
+F:\دانشگاه\ترم بندی\ترم5\پایگاه داده\پروژه\Mosque-DB-System\MyFirstApp\bin\Debug\net9.0\MyFirstApp.pdb
+F:\دانشگاه\ترم بندی\ترم5\پایگاه داده\پروژه\Mosque-DB-System\MyFirstApp\obj\Debug\net9.0\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\دانشگاه\ترم بندی\ترم5\پایگاه داده\پروژه\Mosque-DB-System\MyFirstApp\obj\Debug\net9.0\MyFirstApp.AssemblyInfoInputs.cache
+F:\دانشگاه\ترم بندی\ترم5\پایگاه داده\پروژه\Mosque-DB-System\MyFirstApp\obj\Debug\net9.0\MyFirstApp.AssemblyInfo.cs
+F:\دانشگاه\ترم بندی\ترم5\پایگاه داده\پروژه\Mosque-DB-System\MyFirstApp\obj\Debug\net9.0\MyFirstApp.csproj.CoreCompileInputs.cache
+F:\دانشگاه\ترم بندی\ترم5\پایگاه داده\پروژه\Mosque-DB-System\MyFirstApp\obj\Debug\net9.0\MyFirstApp.sourcelink.json
+F:\دانشگاه\ترم بندی\ترم5\پایگاه داده\پروژه\Mosque-DB-System\MyFirstApp\obj\Debug\net9.0\MyFirstApp.dll
+F:\دانشگاه\ترم بندی\ترم5\پایگاه داده\پروژه\Mosque-DB-System\MyFirstApp\obj\Debug\net9.0\refint\MyFirstApp.dll
+F:\دانشگاه\ترم بندی\ترم5\پایگاه داده\پروژه\Mosque-DB-System\MyFirstApp\obj\Debug\net9.0\MyFirstApp.pdb
+F:\دانشگاه\ترم بندی\ترم5\پایگاه داده\پروژه\Mosque-DB-System\MyFirstApp\obj\Debug\net9.0\MyFirstApp.genruntimeconfig.cache
+F:\دانشگاه\ترم بندی\ترم5\پایگاه داده\پروژه\Mosque-DB-System\MyFirstApp\obj\Debug\net9.0\ref\MyFirstApp.dll
